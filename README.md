@@ -11,7 +11,9 @@ Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. Svel
 *   🚀  I'm currently working on [Shinkirin (Project Buraindo)](http://shinkirin.com)
 *   🧠  I'm learning SvelteKit + Pocketbase
 *   🤝  I'm open to collaborating on Headless WordPress integrations particularly with Astro, Next.js, or Sveltekit.
-*   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.<a href="https://www.twitter.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img
+*   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
+
+<a href="https://www.twitter.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/MatsunagaKevin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
               
