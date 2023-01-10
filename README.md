@@ -7,10 +7,10 @@ Web Developer, Server Administrator, ICT Teacher
 Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. SvelteKit. Headless Wordpress. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: http://sasebo.tech. Project: https://shinkirin.com. Former AWS Scout.
 
 *   🌍  I'm based in Washington
-*   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com)
-*   🚀  I'm currently working on [Shinkirin (Project Buraindo)](http://shinkirin.com)
-*   🧠  I'm learning SvelteKit + Pocketbase
-*   🤝  I'm open to collaborating on Headless WordPress integrations particularly with Astro, Next.js, or Sveltekit.
+*   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
+*   🚀  I'm currently working on [FitTrend](http://fittrend.dev).
+*   🧠  I'm learning SvelteKit + Supabase.
+*   🤝  I'm open to collaborating on Headless WordPress integrations, particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
 
 <a href="https://www.twitter.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img
