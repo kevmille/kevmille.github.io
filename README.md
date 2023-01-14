@@ -6,7 +6,7 @@ Web Developer, Server Administrator, ICT Teacher
 
 Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. SvelteKit. Headless Wordpress. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: http://sasebo.tech. Project: https://shinkirin.com. Former AWS Scout.
 
-*   🌍  I'm based in Washington, USA. Will relocate to Texas.
+*   🌍  I'm based in Washington, USA.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on [FitTrend](http://fittrend.dev), my pre-MVP prototype.
 *   🧠  I'm learning SvelteKit + Supabase.
