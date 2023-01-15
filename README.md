@@ -8,7 +8,7 @@ Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. Svel
 
 *   🌍  I'm based in Washington, USA.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
-*   🚀  I'm currently working on [FitTrend](http://fittrend.dev), my pre-MVP prototype.
+*   🚀  I'm currently working on [FitTrend](http://fittrend.dev), my pre-MVP prototype, and [Maple Express](https://maple.express).
 *   🧠  I'm learning SvelteKit + Supabase.
 *   🤝  I'm open to collaborating on Headless WordPress integrations, particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
