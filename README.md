@@ -45,19 +45,3 @@ Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. Svel
 
 <a href="http://www.github.com/kevmille"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevmille&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<details>
-  <summary>GitHub Stats</summary>
-
-![GitHub Stats Card]
-
-</details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-
-
-![GitHub Trophies]
-
-</details>
