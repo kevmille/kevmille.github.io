@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Server Administrator, ICT Teacher
 ------------------------------------------------
 
-Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Weightlifter. Astro. SvelteKit. Headless Wordpress. Headless Ghost. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: http://sasebo.tech. Project: https://shinkirin.com. Former AWS Scout.
+Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Headless Wordpress. Headless Ghost. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: http://sasebo.tech. Project: https://shinkirin.com.
 
 *   🌍  I'm based in Washington, USA.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
