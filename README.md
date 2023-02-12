@@ -9,7 +9,6 @@ Former US Marine and Disabled Veteran. RPCV Kazakhstan. Japanese Amerasian. Form
 *   🌍  I'm based in Washington, USA. Will relocate to Dallas, Texas, in February 2023.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on EFL Monster, my startup for MyKaiwa. 
-*   🚀  My startup will participate in Founder Institute this year.
 *   🧠  I'm learning SvelteKit + Supabase. I will study Pocketbase after it reaches a stable release.
 *   🤝  I'm open to collaborating on Headless WordPress integrations, particularly with Astro, Next.js, or Sveltekit. If you want to use headless Ghost, let me know.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
