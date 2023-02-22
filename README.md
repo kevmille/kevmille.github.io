@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Server Administrator, ICT Teacher
 ------------------------------------------------
 
-Former US Marine and Disabled Veteran. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. QwikCity. Headless Wordpress. Headless Ghost. Directus. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: LONESTAR EdTech. Founder. STEM Teacher.
+Former US Marine and Disabled Veteran. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. QwikCity. Headless Wordpress. Headless Ghost. Directus. Hygraph. Tailwind CSS. Pocketbase. Supabase. Startup: LONESTAR EdTech. Project: MyKaiwa. Founder. STEM Teacher.
 
 *   🌍  I'm based in Washington, USA. Will relocate to Dallas, Texas, in late February 2023.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
