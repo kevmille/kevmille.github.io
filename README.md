@@ -6,7 +6,7 @@ Web Developer, Server Administrator, ICT Teacher
 
 Former US Marine and Disabled Veteran. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. QwikCity. Headless Wordpress. Headless Ghost. Directus. Hygraph. Tailwind CSS. Pocketbase. Supabase.
 
-*   🌍  I'm based in Dallas, Texas, as of March 2023.
+*   🌍  I'm based in the US.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on LONESTAR EdTech, my startup for MyKaiwa. I will participate with the Founder Institute in March 2023.
 *   🧠  I'm learning SvelteKit + Supabase. I will study Pocketbase after it reaches a stable release.
