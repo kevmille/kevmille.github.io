@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Server Administrator, ICT Teacher
 ------------------------------------------------
 
-Former US Marine and Disabled Veteran. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. QwikCity. Headless Wordpress. Headless Ghost. Directus. Hygraph. Tailwind CSS. Pocketbase. Supabase.
+Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. QwikCity. Headless Wordpress. Headless Ghost. Directus. Hygraph. Tailwind CSS. Pocketbase. Supabase.
 
 *   🌍  I'm based in the US.Deciding where to setup my startup.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
