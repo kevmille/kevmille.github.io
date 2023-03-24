@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Miller, Jr.
 ================================================================================================================================================
 
-Web Developer, Server Administrator, ICT Teacher
-------------------------------------------------
+Web Developer, Server Administrator, ICT Teacher, EdTech
+--------------------------------------------------------
 
 Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. Headless Wordpress. Headless Ghost. Hygraph. Tailwind CSS. Vercel. Moodle. Directus. Mattermost.
 
