@@ -8,8 +8,8 @@ Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightl
 
 *   🌍  I'm based in the US. Pacific Northwest.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
-*   🚀  I'm currently working on LONESTAR EdTech, my startup for MyKaiwa. We are testing a smaller app with Edapp.
-*   🧠  I'm learning SvelteKit + Supabase. I will study Pocketbase after it reaches a stable release.
+*   🚀  I'm currently working on FitTrend with Next.js and PlanetScale.
+*   🧠  I'm learning Angular for a potential project.
 *   🤝  I'm open to collaborating on Headless WordPress integrations, particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
 
