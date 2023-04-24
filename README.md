@@ -9,8 +9,8 @@ Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightl
 *   🌍  I'm based in the US. Pacific Northwest.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on FITTREND with Astro, Svelte, React, and Tailwind CSS.
-*   🧠  I'm learning D3.
-*   🤝  I'm open to collaborating on Headless WordPress integrations, particularly with Astro, Next.js, or Sveltekit.
+*   🧠  I'm plan to learn D3 integrating it with Astro using Svelte components.
+*   🤝  I'm open to collaborating on Headless CMS integrations, particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
 
 <a href="https://www.twitter.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img
