@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Server Administrator, ICT Teacher, EdTech
 --------------------------------------------------------
 
-Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. Headless Wordpress. Headless Ghost. Hygraph. Tailwind CSS. Vercel.
+Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Weightlifter. Astro. SvelteKit. Next.js. Headless WordPress. Hygraph. Tailwind CSS. Vercel.
 
 *   🌍  I'm based in the US. Pacific Northwest.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
