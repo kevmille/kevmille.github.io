@@ -6,7 +6,7 @@ Fullstack Web Developer, Linux Server Administrator, ICT Teacher, EdTech
 
 Former US Marine. RPCV Kazakhstan. Japanese Amerasian. Former AWS Scout. Astro. SvelteKit. Next.js. Headless WordPress. Hygraph. Tailwind CSS. Vercel.
 
-*   🌍  I'm based in the US. Pacific Northwest.
+*   🌍  I'm based in the US. Pacific Northwest. I used to live in Vietnam.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on FITTREND with Astro, Svelte, React, and Tailwind CSS. FITTREND may be my next project idea.
 *   🧠  I'm plan to learn D3 integrating it with Astro using Svelte and React components.
