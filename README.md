@@ -9,7 +9,7 @@ Former US Marine. RPCV Kazakhstan. Former AWS Scout. Astro. SvelteKit. Next.js. 
 *   🌍  I'm based in the US. Pacific Northwest. I used to live in Saigon, Vietnam.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on FITTREND with Astro, Svelte, React, and Tailwind CSS. FITTREND may be my next project idea.
-*   🧠  I'm plan to learn D3 integrating it with Astro using Svelte and React components.
+*   🧠  I'm learning Cybersecurity.
 *   🤝  I'm open to collaborating on Headless CMS integrations, particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC) for 18 years, Kazakhstan (Almaty and Karatau) for 5 years, and China (Shanghai) for 1 year.
 
