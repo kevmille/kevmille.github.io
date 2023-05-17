@@ -6,7 +6,7 @@ Fullstack Web Developer
 
 Former US Marine. RPCV Kazakhstan. Former AWS Scout. Astro. SvelteKit. Next.js. Headless WordPress. Hygraph. Tailwind CSS. Vercel.
 
-*   🌍  I'm based in the US. Pacific Northwest. I used to live in Saigon, Vietnam.
+*   🌍  I'm based in the US. Pacific Northwest. I used to live in Saigon, Vietnam, and Almaty, Kazakhstan
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently working on FITTREND with Astro, Svelte, React, and Tailwind CSS. FITTREND may be my next project idea.
 *   🧠  I'm learning Cybersecurity.
