@@ -4,7 +4,7 @@ Kevin Matsunaga
 Fullstack Web Developer
 -----------------------
 
-Former US Marine. RPCV Kazakhstan. Former AWS Scout. Astro. SvelteKit. Next.js. Headless WordPress. Hygraph. Tailwind CSS. Vercel. Cloudflare Pages.
+Former US Marine. RPCV Kazakhstan. Former AWS Scout.
 
 *   🌍  I'm based in the US. Pacific Northwest. I used to live in Saigon, Vietnam, and Almaty, Kazakhstan
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
