@@ -4,7 +4,7 @@ Kevin Matsunaga
 Fullstack Web Developer
 -----------------------
 
-Former US Marine. RPCV Kazakhstan. Former AWS Scout. Business Development.
+Former US Marine. RPCV Kazakhstan. Former AWS Scout. Business Development stuff.
 
 *   🌍  I'm based in the US. Pacific Northwest. I used to live in Saigon, Vietnam, and Almaty, Kazakhstan
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
