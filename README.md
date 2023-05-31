@@ -1,8 +1,8 @@
 Kevin Matsunaga
 ===============
 
-Fullstack Web Developer
------------------------
+Web Developer
+-------------
 
 Former US Marine. RPCV Kazakhstan. Former AWS Scout. Edtech.
 
