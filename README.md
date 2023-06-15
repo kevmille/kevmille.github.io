@@ -6,7 +6,7 @@ Web Developer
 
 Former US Marine. RPCV Kazakhstan. Former AWS Scout (Vietnam). Education Technology. Former ICT Teacher.
 
-*   🌍  I'm based in the US. Pacific Northwest. I previously resided in Saigon, Vietnam, and Almaty, Kazakhstan.
+*   🌍  I'm based in the US. Pacific Northwest. I previously resided in Saigon, Vietnam, Shanghai, China, and Almaty, Kazakhstan.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently restarting my Edtech project.
 *   🧠  I'm learning cool stuff.
