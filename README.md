@@ -1,5 +1,5 @@
-Kevin Matsunaga
-===============
+Kevin Miller, Jr.
+=================
 
 Fullstack and Jamstack Web Developer
 ----------------------------------
