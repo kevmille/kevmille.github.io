@@ -2,7 +2,7 @@ Kevin Miller, Jr.
 =================
 
 Fullstack and Jamstack Web Developer
-----------------------------------
+------------------------------------
 
 Former US Marine. RPCV Kazakhstan. Former AWS Scout (Vietnam). Education Technology. Former ICT Teacher.
 
