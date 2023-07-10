@@ -8,7 +8,7 @@ Former US Marine. RPCV Kazakhstan. Former AWS Scout (Vietnam). Education Technol
 
 *   🌍  I'm based in the US. Pacific Northwest (WA). I previously resided in Saigon, Vietnam, Shanghai, China, and Almaty, Kazakhstan.
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
-*   🚀  I'm currently learning Laravel and getting back to PHP. Building my web app with Laravel. Yeah...
+*   🚀  I'm currently learning Laravel and getting back to PHP for my next two projects.
 *   🧠  I blog at [https://kevinmatsunaga.com](https://kevinmatsunaga.com).
 *   🤝  I'm open to collaborating on Headless CMS integrations (WordPress and Hygraph), particularly with Astro, Next.js, or Sveltekit.
 *   ⚡  I lived in Vietnam (HCMC), Kazakhstan (Almaty and Karatau), Turkey (Istanbul), and China (Shanghai).
