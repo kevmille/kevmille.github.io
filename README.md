@@ -6,7 +6,7 @@ Fullstack and Jamstack Web Developer
 
 Former Marine. RPCV Kazakhstan. Former AWS Scout (Vietnam). Education Technology. Former Computer Science and ICT Teacher. 
 
-*   🌍  I'm based in the US. Pacific Northwest (WA). I previously resided in Saigon, Vietnam, Shanghai, China, and Almaty, Kazakhstan.
+*   🌍  I'm based in the US. Pacific Northwest (WA).
 *   ✉️  You can contact me at [kevin@sasebotech.com](mailto:kevin@sasebotech.com).
 *   🚀  I'm currently learning Laravel and getting back to PHP for my next two projects. Looking to create a vitals app for those with ADHD.
 *   🧠  I blog at [https://kevinmatsunaga.com](https://kevinmatsunaga.com).
