@@ -4,8 +4,6 @@ Kevin Miller, Jr.
  Drupal Web Developer | SvelteKit Enthusiast | Rocky Linux Sysadmin
 -------------------------------------------------------------------
 
-Former Marine. RPCV Kazakhstan. Former AWS Scout (Vietnam). Education Technology. Former IT Director, Computer Science and ICT Teacher. 
-
 *   🌍  I'm based in the US. Pacific Northwest (WA).
 *   🚀  I'm a Drupal web developer specializing in decoupled architectures with SvelteKit. I'm passionate about building fast, accessible, and modern web experiences.
 *   🌱  Currently working with a Washington state agency, crafting innovative solutions on the Drupal platform.
